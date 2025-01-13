@@ -1,5 +1,4 @@
 # Multimodal System with Tkinter GUI
-
 This is my **Multimodal System**, built using **Tkinter GUI**. It combines all the models I have developed so far with Tkinter into a single, unified platform. The system provides various functionalities and features that can be easily accessed through its user-friendly interface.
 
 ## Demo
